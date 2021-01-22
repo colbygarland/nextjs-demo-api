@@ -1,6 +1,5 @@
 {
   "data": {
-    "content": "All of the content on the page is rendered during run time.",
-    "moreContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec feugiat nisi consectetur, dapibus nulla nec, lobortis ex. Pellentesque vestibulum arcu vel est laoreet, in eleifend nibh varius. Nam et ligula nec dolor sollicitudin lobortis. Donec tincidunt, nunc blandit molestie tincidunt, quam quam vehicula mauris, mollis auctor purus enim at neque. In sodales dolor eu nibh imperdiet, et aliquam magna auctor. Fusce velit lorem, vestibulum tincidunt nibh vel, aliquet volutpat velit. Praesent imperdiet quam at leo feugiat, in lobortis dui rhoncus."
+    "content": "<p className=`mb-2`>All of the content on the page is rendered during run time.</p><p className=`mb-2`>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec feugiat nisi consectetur, dapibus nulla nec, lobortis ex. Pellentesque vestibulum arcu vel est laoreet, in eleifend nibh varius. Nam et ligula nec dolor sollicitudin lobortis. Donec tincidunt, nunc blandit molestie tincidunt, quam quam vehicula mauris, mollis auctor purus enim at neque. In sodales dolor eu nibh imperdiet, et aliquam magna auctor. Fusce velit lorem, vestibulum tincidunt nibh vel, aliquet volutpat velit. Praesent imperdiet quam at leo feugiat, in lobortis dui rhoncus.</p>"
   }
 }
